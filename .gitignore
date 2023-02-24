@@ -1,0 +1,6 @@
+*.bak
+*.user
+x64
+Debug
+Release
+.vs
